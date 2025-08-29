@@ -3,6 +3,9 @@
 This is a simple command-line Assignment Tracker.  
 It lets you add, list, and mark assignments as done, while also syncing them into a Google Sheet for a dashboard view.
 
+Follow the presentation link explanining on how to setup environemnt and use the project 
+
+https://docs.google.com/presentation/d/1-BsRWSqs6ssJg5x43oDKFV8hHUDQzVxH/edit?usp=sharing&ouid=106674971482274775497&rtpof=true&sd=true
 ---
 
 ## 🚀 Features
