@@ -1,6 +1,4 @@
-## 📸 Screenshots
 
-### Google API Setup
 ![Google API Setup](assets/gAPI.png)
 
 # 📝 Assignment Tracker (CSV + Google Sheets)
