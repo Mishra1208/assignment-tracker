@@ -3,25 +3,6 @@
 ### Google API Setup
 ![Google API Setup](assets/gAPI.png)
 
-### Synced Google Sheet
-![Google Sheets](assets/gsheets.webp)
-
-### CLI Add Command
-![CLI Demo](assets/py.png)
-
-## 📸 Screenshots
-
-### Google API Setup
-<img src="assets/gAPI.png" alt="Google API" width="300"/>
-
-### Synced Google Sheet
-<img src="assets/gsheets.webp" alt="Google Sheets" width="200"/>
-
-### CLI Add Command
-<img src="assets/py.png" alt="CLI Add Command" width="250"/>
-
-
-
 # 📝 Assignment Tracker (CSV + Google Sheets)
 
 This is a simple command-line Assignment Tracker.  
